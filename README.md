@@ -1,4 +1,4 @@
-# Weatherly - SwiftUI Weather App
+# SwiftUI Weather App
 
 Weatherly is a SwiftUI-based iOS weather application that allows users to check the weather forecast for their desired locations. It utilizes the OpenWeatherMap API to fetch weather data and provides a user-friendly interface for a seamless experience.
 
