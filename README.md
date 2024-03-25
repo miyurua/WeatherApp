@@ -23,8 +23,6 @@ To get started with Weatherly, follow these steps:
 3. Replace the placeholder API key in the project with your own API key.
 4. Build and run the project in Xcode.
 
-## Screenshots
-
 ## Contributing
 
 Contributions are welcome! If you have any ideas or suggestions to improve Weatherly, feel free to open an issue or create a pull request.
